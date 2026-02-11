@@ -41,7 +41,7 @@ A aplicação segue uma arquitetura moderna baseada em separação de responsabi
 |    Camada     |          Tecnologia           |             Motivo                |
 |---------------|-------------------------------|-----------------------------------|
 | Frontend      | React + TypeScript            | Alta demanda no mercado           |
-| Backend       | Azure Functions (C#)          | Serverless, escalável e econômico |
+| Backend       | ASP.Net Core MVC (C#)         | Robusto, padrão de mercado        |
 | ORM           | Entity Framework Core         | Padrão de mercado                 |
 | Banco         | PostgreSQL ou MySQL           | Open-source e baixo custo         |
 | Auth          | JWT                           | Segurança moderna                 |
